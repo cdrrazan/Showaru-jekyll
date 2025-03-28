@@ -1,0 +1,54 @@
+# Site Preferences
+site:
+  theme: theme-auto
+
+# Site Settings
+title: Littlelink
+description: An open source DIY Linktree alternative.
+url: https://example.com
+baseurl: ""  # Set to "" or the subdirectory if deploying to a subfolder
+favicon: /assets/images/avatar.png
+avatar: /assets/images/avatar.png
+avatar_2x: /assets/images/avatar@2x.png
+meta:
+  description: An open source DIY Linktree alternative.
+  keywords: Jekyll, DIY, Open Source Littlelink
+author: John Doe
+
+# Site Links
+links:
+  - { name: "LittleLink", url: "#", icon: "littlelink.svg", alt: "LittleLink Logo", button_text: "LittleLink", button_class: "button-default" }
+  - { name: "Amazon Wishlist", url: "#", icon: "amazon.svg", alt: "Amazon Wishlist Logo", button_text: "Amazon Wishlist", button_class: "button-amazon" }
+  - { name: "Apple App Store", url: "#", icon: "apple.svg", alt: "Apple Logo", button_text: "Apple App Store", button_class: "button-appstore" }
+  - { name: "Bluesky", url: "#", icon: "bluesky.svg", alt: "Bluesky Logo", button_text: "Bluesky", button_class: "button-bluesky" }
+  - { name: "Buy Me A Coffee", url: "#", icon: "buy-me-a-coffee.svg", alt: "Buy Me A Coffee Logo", button_text: "Buy Me A Coffee", button_class: "button-coffee" }
+  - { name: "Calendly", url: "#", icon: "calendly.svg", alt: "Calendly Logo", button_text: "Schedule with Calendly", button_class: "button-calendly" }
+  - { name: "Cash App", url: "#", icon: "cash-app-dollar.svg", alt: "Cash App Logo", button_text: "Cash App", button_class: "button-cash-app" }
+  - { name: "Dev.to", url: "#", icon: "dev-to.svg", alt: "Dev.to Logo", button_text: "Dev.to", button_class: "button-dev-to" }
+  - { name: "Discord", url: "#", icon: "discord.svg", alt: "Discord Logo", button_text: "Discord", button_class: "button-discord" }
+  - { name: "Facebook", url: "#", icon: "facebook.svg", alt: "Facebook Logo", button_text: "Find us on Facebook", button_class: "button-faceb" }
+  - { name: "Facebook Messenger", url: "#", icon: "messenger.svg", alt: "Messenger Logo", button_text: "Chat on Messenger", button_class: "button-messenger" }
+  - { name: "GitHub", url: "#", icon: "github.svg", alt: "GitHub Logo", button_text: "GitHub", button_class: "button-github" }
+  - { name: "Instagram", url: "#", icon: "instagram.svg", alt: "Instagram Logo", button_text: "Instagram", button_class: "button-instagram" }
+  - { name: "Ko-fi", url: "#", icon: "ko-fi.svg", alt: "Ko-fi Logo", button_text: "Support me on Ko-fi", button_class: "button-ko-fi" }
+  - { name: "LinkedIn", url: "#", icon: "linkedin.svg", alt: "LinkedIn Logo", button_text: "LinkedIn", button_class: "button-linked" }
+  - { name: "Mailchimp", url: "#", icon: "mailchimp.svg", alt: "Mailchimp Logo", button_text: "Mailchimp", button_class: "button-mailchimp" }
+  - { name: "PayPal", url: "#", icon: "paypal.svg", alt: "PayPal Logo", button_text: "PayPal", button_class: "button-paypal" }
+  - { name: "Pinterest", url: "#", icon: "pinterest.svg", alt: "Pinterest Logo", button_text: "Pinterest", button_class: "button-pinterest" }
+  - { name: "Reddit", url: "#", icon: "reddit.svg", alt: "Reddit Logo", button_text: "Reddit", button_class: "button-reddit" }
+  - { name: "Shop", url: "#", icon: "shop.svg", alt: "Shop Logo", button_text: "Buy with Shop", button_class: "button-shop" }
+  - { name: "Signal", url: "#", icon: "signal.svg", alt: "Signal Logo", button_text: "Signal", button_class: "button-signal" }
+  - { name: "Snapchat", url: "#", icon: "snapchat.svg", alt: "Snapchat Logo", button_text: "Snapchat", button_class: "button-snapchat" }
+  - { name: "Spotify Alt", url: "#", icon: "spotify-alt.svg", alt: "Spotify Logo", button_text: "Listen on Spotify", button_class: "button-spotify-alt" }
+  - { name: "Telegram", url: "#", icon: "telegram.svg", alt: "Telegram Logo", button_text: "Telegram", button_class: "button-telegram" }
+  - { name: "Threads", url: "#", icon: "threads.svg", alt: "Threads Logo", button_text: "Threads", button_class: "button-threads" }
+  - { name: "TikTok", url: "#", icon: "tiktok.svg", alt: "TikTok Logo", button_text: "TikTok", button_class: "button-tiktok" }
+  - { name: "WhatsApp", url: "#", icon: "whatsapp.svg", alt: "WhatsApp Logo", button_text: "WhatsApp", button_class: "button-whatsapp" }
+  - { name: "X", url: "#", icon: "x.svg", alt: "X Logo", button_text: "Follow on X", button_class: "button-x" }
+
+# Site Footer
+# TBD
+
+
+
+

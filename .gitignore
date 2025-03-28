@@ -1,0 +1,7 @@
+# Directories
+.jekyll-cache/
+_site/
+.idea/
+
+# Files
+.DS_Store

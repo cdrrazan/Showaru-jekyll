@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<!--
+  To change the theme, change the class on the html tag below to one of:
+  - theme-auto: Automatically switches based on user's system preferences
+  - theme-light: Forces light theme
+  - theme-dark: Forces dark theme
+-->
+
+<html class={{ site.theme.type }} lang="en"><!-- Update`class="theme-auto" with your preference -->
+
+<!-- Head Content -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Page Title - Change this to your name/brand (50-60 characters recommended) -->
+  <title>{{ site.title }}</title>
+  <link rel="icon" type="image/x-icon" href={{ site.favicon }}><!-- Update this with your own favicon -->
+
+  <!-- Meta Description - Write a description (150-160 characters recommended) -->
+  <meta name="description" content={{ site.meta.description }}>
+
+  <!-- Keywords -->
+  <meta name="keywords" content={{ site.meta.keywords }}>
+
+  <!-- Canonical URL - Helps prevent duplicate content issues -->
+  <meta rel="canonical" href="{{ site.baseurl }}">
+
+  <!-- Author Information -->
+  <meta name="author" content="{{ site.author.name }}">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="/assets/css/reset.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/brands.css">
+
+  <!-- LittleLink Extended Stylesheets -->
+  <link rel="stylesheet" href="/assets/css/brands-extended.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
+</head>
+<!-- End of Head Content -->
+
+<!-- Body Content -->
+<body>
+    {{ content }}
+</body>
+<!-- End of Body Content -->
+
+</html>
