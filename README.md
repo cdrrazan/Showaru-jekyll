@@ -4,6 +4,11 @@ The DIY self-hosted LinkTree alternative. **Showaru** has more than 100 branded 
 
 _This is the Jekyll fork of the original work by Seth Cottle in [Littlelink.](https://github.com/sethcottle/littlelink)_
 
+### Preview
+![sh-rsynk-com-1024xFULLdesktop-fe9dd9](https://github.com/user-attachments/assets/4d8483ea-5b60-4738-8675-3a9d9e6544d7)
+
+Please visit this link for all [customizable options](https://gist.github.com/cdrrazan/e046af3f055b232fdfb0bfb409a28ee8) to configure your desired sites.
+
 ## Features
 - Responsive Design: Ensures compatibility with devices of all sizes.​
 - Minimalist Aesthetic: Focuses on content presentation without unnecessary distractions.​
