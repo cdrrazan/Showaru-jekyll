@@ -10,7 +10,7 @@ _This is the Jekyll fork of the original work by Seth Cottle in [Littlelink.](ht
 - Customization: Easily customizable to match your style and preferences.​
 
 ## Demo
-A live demo of the Showaru theme is available at [sh.viewaru.com](https://sh.viewaru.com)​
+A live demo of the Showaru theme is available at [sh.rsynk.com](https://sh.rsynk.com)​
 
 ## Installation
 To set up the Showaru theme on your Jekyll site:
