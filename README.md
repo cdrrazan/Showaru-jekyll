@@ -1,5 +1,9 @@
 # Showaru
 
+<a href="https://jekyll-themes.com/cdrrazan/Showaru]">
+  <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" />
+</a><br/><br/>
+
 The DIY self-hosted LinkTree alternative. **Showaru** has more than 100 branded button styles you can easily use. 
 
 _This is the Jekyll implementation of the original work by Seth Cottle in [Littlelink.](https://github.com/sethcottle/littlelink)_
