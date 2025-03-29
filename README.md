@@ -2,7 +2,7 @@
 
 The DIY self-hosted LinkTree alternative. **Showaru** has more than 100 branded button styles you can easily use. 
 
-_This is the Jekyll fork of the original work by Seth Cottle in [Littlelink.](https://github.com/sethcottle/littlelink)_
+_This is the Jekyll implementation of the original work by Seth Cottle in [Littlelink.](https://github.com/sethcottle/littlelink)_
 
 ### Preview
 ![sh-rsynk-com-1024xFULLdesktop-fe9dd9](https://github.com/user-attachments/assets/4d8483ea-5b60-4738-8675-3a9d9e6544d7)
