@@ -1,6 +1,6 @@
 # Showaru
 
-<a href="https://jekyll-themes.com/cdrrazan/Showaru">
+<a href="https://jekyll-themes.com/cdrrazan/Showaru-jekyll">
   <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" />
 </a><br/><br/>
 
