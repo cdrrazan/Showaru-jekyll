@@ -19,7 +19,7 @@ Please visit this link for all [customizable options](https://gist.github.com/cd
 - Customization: Easily customizable to match your style and preferences.​
 
 ## Demo
-A live demo of the Showaru theme is available at [sh.rsynk.com](https://sh.rsynk.com)​
+A live demo of the Showaru theme is available at [showaru.theme.rsynk.com](https://showaru.theme.rsynk.com)​
 
 ## Installation
 To set up the Showaru theme on your Jekyll site:
